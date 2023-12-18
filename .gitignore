@@ -1,0 +1,11 @@
+#enviorement files
+.env
+
+# node modules
+node_modules
+
+#npm
+package-lock.json
+
+#Vscode config folder
+.Vscode
