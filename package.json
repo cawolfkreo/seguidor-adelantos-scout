@@ -8,7 +8,13 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["Scouts"],
-  "author": "",
-  "license": "MIT"
+  "keywords": [
+    "Scouts"
+  ],
+  "author": "Camilo Zambrano Votto",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "@types/node": "^20.10.5"
+  }
 }
